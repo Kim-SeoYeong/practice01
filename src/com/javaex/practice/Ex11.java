@@ -11,6 +11,7 @@ public class Ex11 {
 		int money = sc.nextInt();
 		int all = money * 12 * 10;
 		System.out.println("10년 동안 최대 저축액은 "+all+"원입니다.");
+		sc.close();
 	}
 
 }

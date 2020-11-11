@@ -20,6 +20,8 @@ public class Ex20 {
 		int total = (500*x) + (100*y) + (50*z) + (10*p);
 		
 		System.out.println("동전의 총 합은 " + total + " 원 입니다.");
+		
+		sc.close();
 	}
 
 }

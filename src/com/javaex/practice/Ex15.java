@@ -17,6 +17,7 @@ public class Ex15 {
 		double total = x * MILE;
 		System.out.println((double)x + "마일은 " + total + "킬로미터 입니다.");
 	
+		sc.close();
 	}
 
 }

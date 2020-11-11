@@ -14,6 +14,8 @@ public class Ex18 {
 		double tem = (float)5/9*(f-32);
 
 		System.out.println("화씨 " + f + "의 섭씨온도는 " + tem + "입니다.");
+		
+		sc.close();
 	}
 
 }

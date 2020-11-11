@@ -20,6 +20,8 @@ public class Ex16 {
 		System.out.println("상품가격 : " + (double)price);
 		System.out.println("부가세 : " + vat);
 		System.out.println("잔액 : " + change);
+		
+		sc.close();
 	}
 
 }

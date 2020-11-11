@@ -8,6 +8,7 @@ public class Ex19 {
 		long light = 300000L;
 		long km = light * 365 * 24 * 60 * 60;
 		System.out.println(km);
+
 	}
 
 }

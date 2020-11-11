@@ -16,6 +16,8 @@ public class Ex13 {
 		
 		double total = won / DOLLAR;
 		System.out.println("받으실 달러는 " + total);
+		
+		sc.close();
 
 	}
 

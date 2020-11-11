@@ -15,6 +15,7 @@ public class Ex12 {
 		
 		double result = ban * ban * PI;
 		System.out.println("원의 넓이는 : " + result);
+		sc.close();
 	}
 
 }

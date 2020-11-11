@@ -15,6 +15,7 @@ public class Ex17 {
 		double volume = (4*PI*ban*ban*ban)/3;
 		System.out.println("구의 부피는 : " + volume);
 		
+		sc.close();
 	}
 
 }
